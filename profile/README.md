@@ -53,7 +53,7 @@ Read our [Contributing Guidelines](https://github.com/GiveBack2People/designreso
 
 ## 📬 Connect With Us
 
-* 📧 **Email:** [hello@designresources.eu.cc](mailto:hello@designresources.eu.cc)
+* 📧 **Email:** [contact@designresources.eu.cc](mailto:contact@designresources.eu.cc)
 * 🐙 **GitHub Organization:** [@GiveBack2People](https://github.com/GiveBack2People)
 * 🌐 **Main Portal:** [designresources.eu.cc](https://designresources.eu.cc/)
 
