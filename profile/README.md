@@ -7,7 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/GiveBack2People/designresources?style=for-the-badge&color=8A2BE2&logo=github)](https://github.com/GiveBack2People/designresources/stargazers)
 [![Website](https://img.shields.io/badge/Live_Site-designresources.eu.cc-00C7B7?style=for-the-badge&logo=cloudflare)](https://designresources.eu.cc/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Contact Email](https://img.shields.io/badge/Contact-hello%40designresources.eu.cc-FF5722?style=for-the-badge&logo=gmail)](mailto:hello@designresources.eu.cc)
+[![Contact Email](https://img.shields.io/badge/Contact-hello%40designresources.eu.cc-FF5722?style=for-the-badge&logo=gmail)](mailto:contact@designresources.eu.cc)
 
 ---
 
